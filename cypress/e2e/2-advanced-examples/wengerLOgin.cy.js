@@ -7,6 +7,7 @@ describe('Login', () => {
       cy.get("[type='button']").click({ multiple: true })
      // cy.get("[type='button']").click({ multiple: true })
       cy.get(".MuiButton-endIcon > img").click();
+        //Adding the testing file  comment to the files
     })
 })
    
